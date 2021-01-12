@@ -15,4 +15,4 @@ Project is created with:
 * HTML
 	
 ## Setup
-To run this project, simply open the link: [Mixed Messages](https://htmlpreview.github.io/?https://github.com/paulalberti/mixedmessages/index.html)
+To run this project, simply open the link: [Mixed Messages](http://htmlpreview.github.io/?https://github.com/paulalberti/mixedmessages/blob/main/index.html)
